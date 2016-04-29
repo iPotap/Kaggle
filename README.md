@@ -1,1 +1,1 @@
-# My attemps at Kaggle competitions
+# My attempts at Kaggle competitions
